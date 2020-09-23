@@ -1,14 +1,20 @@
-NLP_C1_W1_lecture_nb_01.ipynb
-Lab: Natural language processing
-Instructions: Please go through this lecture notebook to practice data preprocessing in Python.  This will help prepare you for the graded assignment at the end of this week.
+C1_W1: Sentiment Analysis with Naïve Bayes
+Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier of your own!
 
-NLP_C1_W1_lecture_nb_02.ipynb
-Lab: Visualizing word frequencies
-Instructions: Please go through this lecture notebook about dictionaries in Python and how to create plots to explore your preprocessed Natural Language Data.  This will help prepare you for the graded assignment at the end of this week.
+Key Concepts:
+    Error analysis
+    Naive Bayes inference
+    Log likelihood
+    Laplacian smoothing
+    conditional probabilities
+    Bayes rule
+    Sentiment analysis
+    Vocabulary creation
+    Supervised learning
 
-NLP_C1_W1_lecture_nb_03.ipynb
-Lab: Visualizing tweets and Logistic Regression models
-Instructions: Please go through this lecture notebook about visualizing an annotated dataset of tweets and the resulting Logistic Regression model. The visual inspection of data and models helps to convert your computational models in real knowledge.
+NLP_C1_W2_lecture_nb_01.ipynb
+Lab: Visualizing likelihoods and confidence ellipses
+Instructions: Please go through this lecture notebook about visualizing likelihoods of tweets and the confidence ellipses for annotated  corpuses. The positive and negative likelihoods of a tweet can be interpreted as a pair of numerical features  extracted from raw text. The visual inspection of the features that will feed a model allows to better understand the problem.
 
-C1_W1_Assignment.ipynb
-Assignment: Logistic Regression
+C1_W2_Assignment.ipynb
+Assignment: Naive Bayes
