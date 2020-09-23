@@ -1,0 +1,24 @@
+C1_W1: Machine Translation and Document Search
+Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.
+
+Key Concepts:
+    Gradient descent
+    Approximate nearest neighbors
+    Locality sensitive hashing
+    Hash functions
+    Hash tables
+    K nearest neighbors
+    Document search
+    Machine translation
+    Frobenius norm
+
+NLP_C1_W4_lecture_nb_01.ipynb
+Lab: Rotation matrices in R2
+Instructions: In this ungraded notebook, you'll practice advance vector transformation in Python. Specifically, you will define and use rotation matrices and plot vectors using pyplot. 
+
+NLP_C1_W4_lecture_nb_02.ipynb
+Lab: Hash tables
+Instructions: Hash tables are data structures based on dictionaries that allows to index data in order to improve heavy lookup tasks. In this notebook, you will have the opportunity to see the details of the implementation of these tables.
+
+C1_W4_Assignment.ipynb
+Assignment: Word Translation
