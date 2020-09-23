@@ -1,0 +1,27 @@
+C1_W1: Vector Space Models
+Vector space models capture semantic meaning and relationships between words. You'll learn how to create word vectors that capture dependencies between words, then visualize their relationships in two dimensions using PCA.
+
+Key Concepts:
+    Covariance matrices
+    Dimensionality reduction
+    Principal component analysis
+    Cosine similarity
+    Euclidean distance
+    Co-occurrence matrices
+    Vector representations
+    Vector space models
+
+NLP_C1_W3_lecture_nb_01.ipynb
+Lab: Linear algebra in Python with Numpy
+Instructions: Please go through this lecture notebook to practice about the basic linear algebra concepts in Python using a very powerful library called Numpy. This will help prepare you for the graded assignment at the end of this week.
+
+NLP_C1_W3_lecture_nb_02.ipynb
+Lab: Manipulating word embeddings
+Instructions: Please go through this lecture notebook to apply the linear algebra concepts for the manipulation of word embeddings. This will help prepare you for the graded assignment at the end of this week.
+
+NLP_C1_W3_lecture_nb_03.ipynb
+Lab: Another explanation about PCA
+Instructions: Please go through this lecture notebook to put in practice the application of PCA for data transformation and dimensionality reduction . This will help prepare you for the graded assignment at the end of this week.
+
+C1_W3_Assignment.ipynb
+Assignment: Vector Space Models
