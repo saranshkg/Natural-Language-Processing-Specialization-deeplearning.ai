@@ -1,0 +1,21 @@
+C1_W2: Sentiment Analysis with Naïve Bayes
+Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier of your own!
+
+Key Concepts:
+    Error analysis
+    Naive Bayes inference
+    Log likelihood
+    Laplacian smoothing
+    conditional probabilities
+    Bayes rule
+    Sentiment analysis
+    Vocabulary creation
+    Supervised learning
+
+Lecture Labs:
+	Lecture Lab 1: Visualizing likelihoods and confidence ellipses
+	Instructions: Please go through this lecture notebook about visualizing likelihoods of tweets and the confidence ellipses for annotated  corpuses. The positive and negative likelihoods of a tweet can be interpreted as a pair of numerical features  extracted from raw text. The visual inspection of the features that will feed a model allows to better understand the problem.
+	Jupyter Notebook: NLP_C1_W2_lecture_nb_01.ipynb
+
+Programming Assignment: Naive Bayes
+Jupyter Notebook: C1_W2_Assignment.ipynb
