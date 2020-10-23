@@ -1,0 +1,22 @@
+C2_W2: Part of Speech Tagging and Hidden Markov Models
+Learn about Markov chains and Hidden Markov models, then use them to create part-of-speech tags for a Wall Street Journal text corpus!
+
+Key Concepts:
+    Markov chains
+    Hidden Markov models
+    Part-of-speech tagging
+    Viterbi algorithm
+    Transition probabilities
+    Emission probabilities
+
+Lecture Labs:
+	Lecture Lab 1: Working with text data
+	Instructions: In this lecture notebook you will create a vocabulary out of a corpus, learn how to handle words that don't appear within that vocabulary and work with text data in general.
+	Jupyter Notebook: NLP_C2_W2_lecture_notebook_strings_tags.ipynb
+
+	Lecture Lab 2: Working with text data
+	Instructions: In this lecture notebook you will be working with Numpy for matrix creation and manipulation. You will populate a matrix with some information about tags and learn different approaches when using Numpy such as vectorization.
+	Jupyter Notebook: NLP_C2_W2_lecture_notebook_numpy.ipynb
+
+Programming Assignment: Autocorrect
+Jupyter Notebook: C2_W2_Assignment.ipynb
