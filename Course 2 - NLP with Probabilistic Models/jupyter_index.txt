@@ -1,0 +1,20 @@
+C2_W1: Autocorrect and Minimum Edit Distance
+Learn about autocorrect, minimum edit distance, and dynamic programming, then build your own spellchecker to correct misspelled words!
+
+Key Concepts:
+    Word probabilities
+    Dynamic programming
+    Minimum edit distance
+    Autocorrect
+
+Lecture Labs:
+	Lecture Lab 1: Building the vocabulary
+	Instructions: Please go through this lecture notebook to understand how to build a vocabulary for use in autocorrect. This will help prepare you for the graded assignment at the end of this week.
+	Jupyter Notebook: NLP_C2_W1_lecture_nb_01.ipynb
+
+	Lecture Lab 2: Candidates from edits
+	Instructions: Please go through this lecture notebook to understand how to create a list of candidate strings by applying an edit operation. This will help prepare you for the graded assignment at the end of this week.
+	Jupyter Notebook: NLP_C2_W1_lecture_nb_02.ipynb
+
+Programming Assignment: Autocorrect
+Jupyter Notebook: C2_W1_Assignment.ipynb
